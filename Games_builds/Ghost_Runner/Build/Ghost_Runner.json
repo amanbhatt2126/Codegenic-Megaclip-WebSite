@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "EndlessRunnerYotube",
+"productVersion": "0.1",
+"dataUrl": "Ghost_Runner.data.unityweb",
+"asmCodeUrl": "Ghost_Runner.asm.code.unityweb",
+"asmMemoryUrl": "Ghost_Runner.asm.memory.unityweb",
+"asmFrameworkUrl": "Ghost_Runner.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}

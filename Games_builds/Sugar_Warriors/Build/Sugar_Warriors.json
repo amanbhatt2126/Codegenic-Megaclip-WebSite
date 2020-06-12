@@ -1,0 +1,16 @@
+{
+"companyName": "Brackeys",
+"productName": "Sugar Warrior",
+"productVersion": "0.1",
+"dataUrl": "Sugar_Warriors.data.unityweb",
+"wasmCodeUrl": "Sugar_Warriors.wasm.code.unityweb",
+"wasmFrameworkUrl": "Sugar_Warriors.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#47A828",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
